@@ -4,7 +4,7 @@
 
 🌱 Actualmente estoy aprendiendo Javascript, Java y Python, y disfruto cada paso de este viaje de aprendizaje.
 
-💞️ Estoy buscando colaborar en proyectos que me desafíen y me permitan aplicar y expandir mis habilidades de programación.
+💞️ Estoy buscando colaborar en proyectos que me desafíen , me permitan aplicar y expandir mis habilidades de programación.
 
 📫 Puedes contactarme @wanda.oriana instagram
 
