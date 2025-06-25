@@ -6,8 +6,6 @@
 
 💞️ Estoy buscando colaborar en proyectos que me desafíen , me permitan aplicar y expandir mis habilidades de programación.
 
-📫 Puedes contactarme @wanda.oriana instagram
-
 😄 Pronombres:She/Her
 <!---
 wandaoriana/wandaoriana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
