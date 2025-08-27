@@ -1,13 +1,29 @@
-👋 Hola, soy @wandaoriana
+# 👋 Hola, soy Wanda Oriana  
 
-👀 Estoy interesada en programar y explorar nuevas tecnologías.
+## 🚀 Sobre mí | About Me  
 
-🌱 Actualmente estoy aprendiendo Javascript, Java y Python, y disfruto cada paso de este viaje de aprendizaje.
+🎓 Estudiante de la **Tecnicatura Universitaria en Programación** en la **Universidad Tecnológica Nacional (UTN)**.  
+💻 Apasionada por el mundo del desarrollo y el aprendizaje de nuevas tecnologías.  
+🌱 Actualmente enfocada en mejorar mis habilidades en **JavaScript, Java y Python**, además de reforzar mis bases en **HTML y CSS**.  
+🤝 Me motiva colaborar en proyectos que representen un desafío, donde pueda aportar y al mismo tiempo crecer como desarrolladora.  
 
-💞️ Estoy buscando colaborar en proyectos que me desafíen , me permitan aplicar y expandir mis habilidades de programación.
+---
 
-😄 Pronombres:She/Her
-<!---
-wandaoriana/wandaoriana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Tech Stack  
+
+| Área         | Tecnologías |
+|--------------|-------------|
+| **Lenguajes** | JavaScript · Java · Python |
+| **Frontend**  | HTML5 · CSS3 |
+| **Herramientas** | Git · GitHub · VS Code · IntelliJ IDEA |
+
+---
+
+## 🌍 Conéctemos  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/wandaoriana)  
+
+---
+
+✨ *“El código no solo resuelve problemas, también crea oportunidades.”*
