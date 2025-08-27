@@ -1,4 +1,4 @@
-# 👋 Hola, soy Wanda Oriana  
+# 👋 Hola, soy Wanda Lanata
 
 ## 🚀 Sobre mí | About Me  
 
