@@ -1,4 +1,4 @@
-# 👋 Hola, soy Wanda Lanata
+# 👋 Hola, soy Wanda Lanatta
 
 ## 🚀 Sobre mí | About Me  
 
