@@ -18,6 +18,26 @@
 | **Herramientas** | Git · GitHub · VS Code · IntelliJ IDEA |
 
 ---
+## 🚀 Projects
+
+### 🎬 **Capybara Films**
+Aplicación de gestión de cines  
+**Tech Stack:** `Python` `PostgreSQL` `Flask`  
+[📁 Repository](link-al-repo) | [🌐 Live Demo](#)
+
+---
+
+### 📋 **CapyDo**
+Aplicación de gestión de proyectos  
+**Tech Stack:** `Bizagi` `Figma` `React` `HTML` `CSS`  
+[📁 Repository](link-al-repo) | [🌐 Live Demo](#)
+
+---
+
+### 🎮 **CapyGaming**
+E-Commerce de productos gamer  
+**Tech Stack:** `Node.js` `HTML` `CSS` `JavaScript` `Vue.js` `Express`  
+[📁 Repository](link-al-repo) | [🌐 Live Demo](#)
 
 ## 🌍 Conéctemos  
 
