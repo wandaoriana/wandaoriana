@@ -1,5 +1,5 @@
 # Hola, soy Wanda Lanatta
-[url=https://www.picgifs.com/glitter-gifs/][img]https://www.picgifs.com/glitter-gifs/s/stars/picgifs-stars-961491.gif[/img][/url]
+<a href="https://www.picgifs.com/glitter-gifs/"><img src="https://www.picgifs.com/glitter-gifs/s/stars/picgifs-stars-961491.gif" border="0" /></a>
 
 ## Sobre mí | About Me  
 
