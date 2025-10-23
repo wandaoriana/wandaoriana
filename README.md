@@ -9,7 +9,7 @@
 
 ---
 
-##  Sobre mí ☆ About me 
+## ☆ Sobre mí ☆ 
 🎓 Estudiante de la **Tecnicatura Universitaria en Programación** en la **UTN**.  
 💻 Apasionada por el desarrollo y el aprendizaje constante.  
 🌱 Enfocada en mejorar mis habilidades en **JavaScript, Java y Python**, y reforzar mis bases en **HTML y CSS**.  
@@ -17,7 +17,7 @@
 
 ---
 
-##  Tech Stack ☆
+## ☆ Tech Stack ☆
 
 | Área | Tecnologías |
 |------|--------------|
@@ -27,23 +27,22 @@
 
 ---
 
-##  Proyectos ☆ Proyects
-
-### 🎬 **Capybara Films**
+## ☆ Proyectos ☆ 
+### ☆ **Capybara Films**
 Aplicación de gestión de cines  
 **Tech Stack:** `Python` `PostgreSQL` `Flask`  
 [📁 Repository](#) | [🌐 Live Demo](#)
 
 ---
 
-### ☆ **CapyDo**
+### ☆ **CapyDo** ☆ 
 Aplicación de gestión de proyectos  
 **Tech Stack:** `Bizagi` `Figma` `React` `HTML` `CSS`  
 [📁 Repository](#) | [🌐 Live Demo](#)
 
 ---
 
-### ☆ **CapyGaming**
+### ☆ **CapyGaming** ☆ 
 E-Commerce de productos gamer  
 **Tech Stack:** `Node.js` `HTML` `CSS` `JavaScript` `Vue.js` `Express`  
 [📁 Repository](#) | [🌐 Live Demo](#)
