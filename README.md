@@ -1,9 +1,9 @@
 # Hola, soy Wanda Lanatta
-<center>
+
   <a href="https://github.com/carolstran/carolstran/blob/main/stars.gif?raw=true">
     <img src="https://github.com/carolstran/carolstran/blob/main/stars.gif?raw=true" border="0" />
   </a>
-</center>
+
 ## Sobre mí | About Me  
 
 🎓 Estudiante de la **Tecnicatura Universitaria en Programación** en la **Universidad Tecnológica Nacional (UTN)**.  
