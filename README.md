@@ -1,6 +1,4 @@
-
-
-## Hola, soy Wanda Lanatta  
+# Hola, soy Wanda Lanatta  
 
 <div align="center">
   <a href="https://github.com/carolstran/carolstran/blob/main/stars.gif?raw=true">
@@ -47,9 +45,9 @@
 
 | Área | Tecnologías |
 |------|--------------|
-| **Lenguajes** | JavaScript · Java · Python |
-| **Frontend** | HTML5 · CSS3 |
-| **Herramientas** | Git · GitHub · VS Code · IntelliJ IDEA |
+| **Lenguajes** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fff) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff) |
+| **Herramientas** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=fff) |
 
 ---
 
@@ -86,3 +84,26 @@ E-Commerce de productos gamer
 [📁 Repository](link-al-repo) | [🌐 Live Demo](#)
 
 ---
+
+<h2 align="center">
+  <span style="color:#00ffff;">🌍</span>
+  <span style="color:#1e90ff;"> C</span>
+  <span style="color:#9370db;">o</span>
+  <span style="color:#ff69b4;">n</span>
+  <span style="color:#ff8c00;">é</span>
+  <span style="color:#ffd700;">c</span>
+  <span style="color:#00fa9a;">t</span>
+  <span style="color:#00bfff;">e</span>
+  <span style="color:#ba55d3;">m</span>
+  <span style="color:#ff69b4;">o</span>
+  <span style="color:#ff1493;">s</span>
+  <span style="color:#00ffff;"> 🌍</span>
+</h2>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/wandaoriana)  
+[![Pinterest](https://img.shields.io/badge/Pinterest-red?style=flat&logo=pinterest)](https://ar.pinterest.com/wansimich/)  
+
+---
+
+✨ *“El código no solo resuelve problemas, también crea oportunidades.”*
