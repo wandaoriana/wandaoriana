@@ -9,7 +9,7 @@
 
 ---
 
-## * ੈ Sobre mí ☆ 
+## * ੈ Sobre mí ੈ
  ✭ Estudiante de la **Tecnicatura Universitaria en Programación** en la **UTN**.  
  ✭ Apasionada por el desarrollo y el aprendizaje constante.  
  ✭ Enfocada en mejorar mis habilidades en **JavaScript, Java y Python**, y reforzar mis bases en **HTML y CSS**.  
@@ -17,7 +17,7 @@
 
 ---
 
-## * ੈ Tech Stack ☆
+## * ੈ Tech Stack ੈ
 
 | Área | Tecnologías |
 |------|--------------|
@@ -27,7 +27,7 @@
 
 ---
 
-## * ੈ Proyectos ☆ 
+## * ੈ Proyectos ੈ
 ### ✭ **Capybara Films**
 Aplicación de gestión de cines  
 **Tech Stack:** `Python` `PostgreSQL` `Flask`  
@@ -49,7 +49,7 @@ E-Commerce de productos gamer
 
 ---
 
-## * ੈ Conectémonos ☆
+## * ੈ Conectémonos ੈ
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fuchsia?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
 [![GitHub](https://img.shields.io/badge/GitHub-yellow?style=for-the-badge&logo=github&logoColor=black)](https://github.com/wandaoriana)  
