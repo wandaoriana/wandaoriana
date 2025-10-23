@@ -3,9 +3,11 @@
 
 #   WANDA ORIANA * ੈ‧✭
 
-<a href="https://github.com/carolstran/carolstran/blob/main/stars.gif?raw=true">
-  <img src="https://github.com/carolstran/carolstran/blob/main/stars.gif?raw=true" width="100%" />
-</a>
+<div style="text-align: center;">
+  <a href="https://github.com/carolstran/carolstran/blob/main/stars.gif?raw=true">
+    <img src="https://github.com/carolstran/carolstran/blob/main/stars.gif?raw=true" border="0" />
+  </a>
+</div>
 
 ---
 
