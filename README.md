@@ -1,4 +1,6 @@
-               ## Hola, soy Wanda Lanatta  
+
+
+## Hola, soy Wanda Lanatta  
 
 <div align="center">
   <a href="https://github.com/carolstran/carolstran/blob/main/stars.gif?raw=true">
