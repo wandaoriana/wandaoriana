@@ -49,7 +49,7 @@ E-Commerce de productos gamer
 
 ---
 
-## ☆ Conectémonos ☆
+##  Conectémonos 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fuchsia?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
 [![GitHub](https://img.shields.io/badge/GitHub-yellow?style=for-the-badge&logo=github&logoColor=black)](https://github.com/wandaoriana)  
