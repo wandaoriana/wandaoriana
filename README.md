@@ -1,7 +1,7 @@
 <div align="center">
 
 
-#   WANDA ORIANA ★°*ﾟ☆
+#   WANDA ORIANA * ੈ‧✭
 
 <a href="https://github.com/carolstran/carolstran/blob/main/stars.gif?raw=true">
   <img src="https://github.com/carolstran/carolstran/blob/main/stars.gif?raw=true" width="100%" />
