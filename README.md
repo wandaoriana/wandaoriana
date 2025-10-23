@@ -1,6 +1,8 @@
-# 👋 Hola, soy Wanda Lanatta
+# Hola, soy Wanda Lanatta
 
-## 🚀 Sobre mí | About Me  
+<img width="562" height="19" alt="image" src="https://github.com/user-attachments/assets/179a41cb-58f4-4e95-afc3-9d858ff3195e" />
+
+## Sobre mí | About Me  
 
 🎓 Estudiante de la **Tecnicatura Universitaria en Programación** en la **Universidad Tecnológica Nacional (UTN)**.  
 💻 Apasionada por el mundo del desarrollo y el aprendizaje de nuevas tecnologías.  
