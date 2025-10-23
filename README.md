@@ -9,7 +9,7 @@
 
 ---
 
-## 🌸 Sobre mí 🌸
+##  Sobre mí ☆ About me 
 🎓 Estudiante de la **Tecnicatura Universitaria en Programación** en la **UTN**.  
 💻 Apasionada por el desarrollo y el aprendizaje constante.  
 🌱 Enfocada en mejorar mis habilidades en **JavaScript, Java y Python**, y reforzar mis bases en **HTML y CSS**.  
@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Tech Stack 🛠️
+##  Tech Stack ☆
 
 | Área | Tecnologías |
 |------|--------------|
@@ -27,7 +27,7 @@
 
 ---
 
-## 🚀 Proyectos 🚀
+##  Proyectos ☆ Proyects
 
 ### 🎬 **Capybara Films**
 Aplicación de gestión de cines  
@@ -36,21 +36,21 @@ Aplicación de gestión de cines
 
 ---
 
-### 📋 **CapyDo**
+### ☆ **CapyDo**
 Aplicación de gestión de proyectos  
 **Tech Stack:** `Bizagi` `Figma` `React` `HTML` `CSS`  
 [📁 Repository](#) | [🌐 Live Demo](#)
 
 ---
 
-### 🎮 **CapyGaming**
+### ☆ **CapyGaming**
 E-Commerce de productos gamer  
 **Tech Stack:** `Node.js` `HTML` `CSS` `JavaScript` `Vue.js` `Express`  
 [📁 Repository](#) | [🌐 Live Demo](#)
 
 ---
 
-## 🌍 Conectémonos 🌍
+## ☆ Conectémonos ☆
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fuchsia?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
 [![GitHub](https://img.shields.io/badge/GitHub-yellow?style=for-the-badge&logo=github&logoColor=black)](https://github.com/wandaoriana)  
@@ -58,6 +58,6 @@ E-Commerce de productos gamer
 
 ---
 
-✨ *“El código no solo resuelve problemas, también crea oportunidades.”* ✨
+ *“El código no solo resuelve problemas, también crea oportunidades.”* ★°*ﾟ
 
 </div>
