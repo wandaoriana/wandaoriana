@@ -57,6 +57,6 @@ E-Commerce de productos gamer
 
 ---
 
- * ੈ‧✭ *“El código no solo resuelve problemas, también crea oportunidades.”* ੈ
+## * ੈ‧✭ *“El código no solo resuelve problemas, también crea oportunidades.”* ੈ
 
 </div>
