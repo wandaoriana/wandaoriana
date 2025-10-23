@@ -35,14 +35,14 @@ Aplicación de gestión de cines
 
 ---
 
-### ✭ **CapyDo** ☆ 
+### ✭ **CapyDo** 
 Aplicación de gestión de proyectos  
 **Tech Stack:** `Bizagi` `Figma` `React` `HTML` `CSS`  
 [📁 Repository](#) | [🌐 Live Demo](#)
 
 ---
 
-### ✭ **CapyGaming** ☆ 
+### ✭ **CapyGaming** 
 E-Commerce de productos gamer  
 **Tech Stack:** `Node.js` `HTML` `CSS` `JavaScript` `Vue.js` `Express`  
 [📁 Repository](#) | [🌐 Live Demo](#)
