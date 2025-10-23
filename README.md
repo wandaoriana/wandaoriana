@@ -1,5 +1,5 @@
 # Hola, soy Wanda Lanatta
-<a href="https://www.picgifs.com/glitter-gifs/"><img src="https://www.picgifs.com/glitter-gifs/s/stars/picgifs-stars-961491.gif" border="0" /></a>
+<a href="https://github.com/carolstran/carolstran/blob/main/stars.gif?raw=true"><img src="https://github.com/carolstran/carolstran/blob/main/stars.gif?raw=true" border="0" /></a>
 
 ## Sobre mí | About Me  
 
