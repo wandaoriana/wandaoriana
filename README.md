@@ -19,7 +19,7 @@
 
 ## Tech Stack 
 
-| Área | Tecnologías |
+| Área |Tecnologías |
 |------|--------------|
 | **Lenguajes** | ![JavaScript](https://img.shields.io/badge/JavaScript-fuchsia?style=for-the-badge&logo=javascript&logoColor=fff) ![Java](https://img.shields.io/badge/Java-yellow?style=for-the-badge&logo=openjdk&logoColor=000) ![Python](https://img.shields.io/badge/Python-violet?style=for-the-badge&logo=python&logoColor=fff) |
 | **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-blue?style=for-the-badge&logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/CSS3-green?style=for-the-badge&logo=css3&logoColor=fff) |
