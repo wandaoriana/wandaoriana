@@ -28,7 +28,7 @@
 ---
 
 ## ☆ Proyectos ☆ 
-### ☆ **Capybara Films**
+### **Capybara Films**
 Aplicación de gestión de cines  
 **Tech Stack:** `Python` `PostgreSQL` `Flask`  
 [📁 Repository](#) | [🌐 Live Demo](#)
