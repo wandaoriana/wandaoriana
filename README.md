@@ -10,10 +10,10 @@
 ---
 
 ## ☆ Sobre mí ☆ 
-🎓 Estudiante de la **Tecnicatura Universitaria en Programación** en la **UTN**.  
-💻 Apasionada por el desarrollo y el aprendizaje constante.  
-🌱 Enfocada en mejorar mis habilidades en **JavaScript, Java y Python**, y reforzar mis bases en **HTML y CSS**.  
-🤝 Motivada por colaborar en proyectos que representen desafíos y aprendizaje.
+ ✭ Estudiante de la **Tecnicatura Universitaria en Programación** en la **UTN**.  
+ ✭ Apasionada por el desarrollo y el aprendizaje constante.  
+ ✭ Enfocada en mejorar mis habilidades en **JavaScript, Java y Python**, y reforzar mis bases en **HTML y CSS**.  
+ ✭ Motivada por colaborar en proyectos que representen desafíos y aprendizaje.
 
 ---
 
