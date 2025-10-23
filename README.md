@@ -28,21 +28,21 @@
 ---
 
 ## ☆ Proyectos ☆ 
-### **Capybara Films**
+### ✭ **Capybara Films**
 Aplicación de gestión de cines  
 **Tech Stack:** `Python` `PostgreSQL` `Flask`  
 [📁 Repository](#) | [🌐 Live Demo](#)
 
 ---
 
-### ☆ **CapyDo** ☆ 
+### ✭ **CapyDo** ☆ 
 Aplicación de gestión de proyectos  
 **Tech Stack:** `Bizagi` `Figma` `React` `HTML` `CSS`  
 [📁 Repository](#) | [🌐 Live Demo](#)
 
 ---
 
-### ☆ **CapyGaming** ☆ 
+### ✭ **CapyGaming** ☆ 
 E-Commerce de productos gamer  
 **Tech Stack:** `Node.js` `HTML` `CSS` `JavaScript` `Vue.js` `Express`  
 [📁 Repository](#) | [🌐 Live Demo](#)
