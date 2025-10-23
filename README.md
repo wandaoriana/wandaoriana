@@ -1,6 +1,5 @@
 # Hola, soy Wanda Lanatta
-
-<img width="562" height="19" alt="image" src="https://github.com/user-attachments/assets/179a41cb-58f4-4e95-afc3-9d858ff3195e" />
+[url=https://www.picgifs.com/glitter-gifs/][img]https://www.picgifs.com/glitter-gifs/s/stars/picgifs-stars-961491.gif[/img][/url]
 
 ## Sobre mí | About Me  
 
